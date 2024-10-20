@@ -1,0 +1,1 @@
+import{_ as n}from"./D2mnpWg7.js";import{_ as a,v as c,z as o,t as r}from"./DP5FTgcn.js";const s={};function t(_,l){const e=n;return r(),c("div",null,[o(e,{class:"w-full",preload:"",src:"/images/banner.jpg",loading:"lazy"})])}const i=a(s,[["render",t]]);export{i as default};
